@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+learning this from
+https://www.youtube.com/watch?v=l6nmysZKHFU
